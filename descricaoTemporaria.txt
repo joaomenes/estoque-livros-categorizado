@@ -1,0 +1,2 @@
+Receber uma lista de dados onde cada livro é categorizado pela primeira letra do título. 
+A tarefa é somar a quantidade de livros disponíveis para cada categoria com base nessa letra inicial.
