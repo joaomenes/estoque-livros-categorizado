@@ -8,4 +8,4 @@ with open(data_books, "r") as file:
 
 dicionario_books = {books ['title'] : books ['category'] for books in lendo}
 
-print(dicionario_books.values())
+print(dicionario_books)
